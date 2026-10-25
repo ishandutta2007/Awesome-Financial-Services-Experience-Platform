@@ -1,6 +1,6 @@
 # Awesome-Financial-Services-Experience-Platform
 
-# Top Financial Services Experience Platform Ecosystem
+## Top Financial Services Experience Platform Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Core Banking Engines, Digital Banking Frontends & Self-Hosted Financial CRM*  
