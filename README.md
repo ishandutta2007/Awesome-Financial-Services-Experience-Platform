@@ -49,6 +49,7 @@ flowchart TD
   - [📈 Wealth Management & Financial Analytics](#-wealth-management--financial-analytics)
 - [🏷️ Topics & Search Keywords](#️-topics--search-keywords)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [📈 Star History](#--star-history)
 - [📜 Disclaimer](#-disclaimer)
 
@@ -195,6 +196,21 @@ Explore the leading open-source repositories powering self-hosted core banking e
 4. Submit a Pull Request with a brief explanation.
 
 ⭐ Star the repo if you find it helpful!
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for exploring and utilizing the **Awesome Financial Services Experience Platform** catalog! If this curated guide has saved you time or aided your fintech and core banking research, please consider supporting the project:
+
+- ⭐ **Star** this repository on GitHub to boost discoverability.
+- 🍴 **Fork** and share it with your engineering, fintech, and banking architecture teams.
+- 📣 **Spread the word** across developer communities and social platforms.
+- ☕ **Buy me a coffee**: Sponsor ongoing research, updates, and open-source maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=github)](https://github.com/sponsors/ishandutta2007)
+
+Thank you for supporting open financial technology! 🙏
 
 ---
 
