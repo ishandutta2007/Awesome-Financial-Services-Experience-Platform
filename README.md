@@ -22,6 +22,14 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
+> *Sorted descending by company size (Valuation / Market Cap / Revenue).*
+
+| Product | Company Size & Valuation | Core Focus & Platform Capabilities | Starting Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Salesforce Financial Services Cloud](https://www.salesforce.com/solutions/industries/financial-services/financial-services-cloud/)** | **~$310B+** Market Cap (NYSE: CRM) • **~$38B+** Annual Revenue | Enterprise relationship management, wealth management, retail banking CRM, household financial account mapping, and loan referral tracking. | Starting at **$325/user/mo** (Enterprise Edition billed annually; Starter edition starts from **$225/user/mo**) | **30-day free trial** of pre-configured Financial Services Cloud org with sample client accounts, financial goals, and wealth dashboards (up to 2 test orgs; no credit card required). |
+| **[Adobe Financial Services Cloud](https://business.adobe.com/industries/financial-services.html)** | **~$210B+** Market Cap (NASDAQ: ADBE) • **~$21.5B+** Annual Revenue | Omnichannel digital banking customer experience, personalized portal content management (AEM), real-time customer data platform (CDP), and secure onboarding workflows. | Foundational Experience Cloud packages starting at **~$1,500/mo** (~$18,000/yr base commitment for regional institutions; Document Cloud workflows from **$14.99/user/mo**) | **14-day free trial** for Document Cloud banking workflows (up to 100 agreement transactions); **30-day guided sandbox access** for Experience Cloud upon partner engagement. |
+| **[Fiserv DNA](https://www.fiserv.com/)** | **~$85B+** Market Cap (NYSE: FI) • **~$19.3B+** Annual Revenue | Real-time, relational core account processing platform for retail banks, commercial institutions, and credit unions, with 24x7 continuous real-time ledger updates. | Core processing modular contracts starting at **~$2,500/mo** (~$30,000/yr base platform subscription for community credit unions plus ~## SaaS/Hosted Platforms
+
 - **Salesforce Financial Services Cloud** — **The enterprise relationship management standard for financial services.** Purpose-built CRM with household relationship mapping, financial accounts, goals, and referral management. **Subscription-based** per-user. **Best for large financial institutions** already standardized on Salesforce, accepting per-seat costs and cloud dependency.
 
 - **Adobe Financial Services Cloud** — Adobe's experience platform adapted for financial services, combining content management, analytics, and personalization for banking customer journeys.
@@ -35,6 +43,78 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **Fiserv DNA** — Account processing and core banking platform for banks and credit unions. **Enterprise licensing**.
 
 - **Finastra Fusion** — Financial software suite covering core banking, payments, lending, and treasury. **Enterprise licensing**.
+
+.18–## SaaS/Hosted Platforms
+
+- **Salesforce Financial Services Cloud** — **The enterprise relationship management standard for financial services.** Purpose-built CRM with household relationship mapping, financial accounts, goals, and referral management. **Subscription-based** per-user. **Best for large financial institutions** already standardized on Salesforce, accepting per-seat costs and cloud dependency.
+
+- **Adobe Financial Services Cloud** — Adobe's experience platform adapted for financial services, combining content management, analytics, and personalization for banking customer journeys.
+
+- **Backbase** — **The digital banking engagement platform.** Omnichannel banking experiences, onboarding, and customer engagement for retail and business banking. **Enterprise licensing**. **Best for banks** wanting a polished digital frontend without building from scratch.
+
+- **nCino** — **The cloud banking platform for loan origination and onboarding.** Built on Salesforce, with commercial loan origination, account opening, and compliance workflows. **Subscription-based**. **Best for commercial lenders** wanting loan lifecycle management on the Salesforce platform.
+
+- **Temenos Cloud** — **The core banking standard.** Comprehensive core banking, payments, and digital banking suite for banks worldwide. **Enterprise subscription**. **Best for large banks** needing a proven, comprehensive core banking platform.
+
+- **Fiserv DNA** — Account processing and core banking platform for banks and credit unions. **Enterprise licensing**.
+
+- **Finastra Fusion** — Financial software suite covering core banking, payments, lending, and treasury. **Enterprise licensing**.
+
+.45 per active account/mo) | **30-day developer sandbox access** via Finxact / Fiserv Developer Portal with preloaded mock retail ledger datasets and up to 5,000 sandbox test API calls. |
+| **[Temenos Cloud](https://www.temenos.com/)** | **~$5.5B** Market Cap (SIX: TEMN) • **~$1.05B+** Annual Revenue | End-to-end composable core banking, payments engine, deposits, and multi-currency treasury suite for universal banks, neobanks, and credit unions. | SaaS foundational core banking packages starting at **~$4,166/mo** (~$50,000/yr base tier for challenger institutions on AWS/Azure plus ~## SaaS/Hosted Platforms
+
+- **Salesforce Financial Services Cloud** — **The enterprise relationship management standard for financial services.** Purpose-built CRM with household relationship mapping, financial accounts, goals, and referral management. **Subscription-based** per-user. **Best for large financial institutions** already standardized on Salesforce, accepting per-seat costs and cloud dependency.
+
+- **Adobe Financial Services Cloud** — Adobe's experience platform adapted for financial services, combining content management, analytics, and personalization for banking customer journeys.
+
+- **Backbase** — **The digital banking engagement platform.** Omnichannel banking experiences, onboarding, and customer engagement for retail and business banking. **Enterprise licensing**. **Best for banks** wanting a polished digital frontend without building from scratch.
+
+- **nCino** — **The cloud banking platform for loan origination and onboarding.** Built on Salesforce, with commercial loan origination, account opening, and compliance workflows. **Subscription-based**. **Best for commercial lenders** wanting loan lifecycle management on the Salesforce platform.
+
+- **Temenos Cloud** — **The core banking standard.** Comprehensive core banking, payments, and digital banking suite for banks worldwide. **Enterprise subscription**. **Best for large banks** needing a proven, comprehensive core banking platform.
+
+- **Fiserv DNA** — Account processing and core banking platform for banks and credit unions. **Enterprise licensing**.
+
+- **Finastra Fusion** — Financial software suite covering core banking, payments, lending, and treasury. **Enterprise licensing**.
+
+.20–## SaaS/Hosted Platforms
+
+- **Salesforce Financial Services Cloud** — **The enterprise relationship management standard for financial services.** Purpose-built CRM with household relationship mapping, financial accounts, goals, and referral management. **Subscription-based** per-user. **Best for large financial institutions** already standardized on Salesforce, accepting per-seat costs and cloud dependency.
+
+- **Adobe Financial Services Cloud** — Adobe's experience platform adapted for financial services, combining content management, analytics, and personalization for banking customer journeys.
+
+- **Backbase** — **The digital banking engagement platform.** Omnichannel banking experiences, onboarding, and customer engagement for retail and business banking. **Enterprise licensing**. **Best for banks** wanting a polished digital frontend without building from scratch.
+
+- **nCino** — **The cloud banking platform for loan origination and onboarding.** Built on Salesforce, with commercial loan origination, account opening, and compliance workflows. **Subscription-based**. **Best for commercial lenders** wanting loan lifecycle management on the Salesforce platform.
+
+- **Temenos Cloud** — **The core banking standard.** Comprehensive core banking, payments, and digital banking suite for banks worldwide. **Enterprise subscription**. **Best for large banks** needing a proven, comprehensive core banking platform.
+
+- **Fiserv DNA** — Account processing and core banking platform for banks and credit unions. **Enterprise licensing**.
+
+- **Finastra Fusion** — Financial software suite covering core banking, payments, lending, and treasury. **Enterprise licensing**.
+
+.40 per active account/mo) | **30-day free trial** of Temenos Developer Sandbox with pre-configured core banking environments, sandbox API keys, and up to 10,000 mock transaction API calls. |
+| **[Q2 Digital Banking](https://www.q2.com/)** | **~$5.2B** Market Cap (NYSE: QTWO) • **~$690M+** Annual Revenue | Comprehensive digital engagement platform connecting retail, commercial, and SMB banking accounts with single-sign-on, fraud mitigation, and fintech integrations. | Base digital banking platform tier starting at **~$4,500/mo** (~$54,000/yr minimum platform license for community financial institutions plus ~$1.25/active digital user/mo) | **30-day evaluation access** to Q2 Innovation Studio SDK and developer portal with synthetic core banking test feeds and up to 2,500 test transactions. |
+| **[nCino Bank Operating System](https://www.ncino.com/)** | **~$4.2B** Market Cap (NASDAQ: NCNO) • **~$520M+** Annual Revenue | Cloud banking operating system built on Salesforce, automating commercial loan origination, retail onboarding, portfolio analytics, and credit risk workflows. | Commercial and small business lending modules starting at **~$175/user/mo** (minimum departmental subscription starting at **~$1,750/mo** / $21,000/yr billed annually) | **30-day sandbox trial** with sample commercial loan pipeline templates, automated credit decisioning rules, and up to 5 evaluation user seats. |
+| **[Alkami Technology](https://www.alkami.com/)** | **~$3.6B** Market Cap (NASDAQ: ALKT) • **~$330M+** Annual Revenue | Cloud-native digital banking platform delivering mobile banking, financial wellness, ACH/wire transfers, and data analytics for credit unions and community banks. | Base digital banking cloud subscription starting at **~$3,750/mo** (~$45,000/yr entry tier for credit unions plus ~$1.10–$1.85 per registered mobile/online banking user/mo) | **30-day developer evaluation portal access** with simulated retail/business banking accounts and mock payment gateway endpoints. |
+| **[Finastra Fusion](https://www.finastra.com/)** | **~$3.0B** Valuation (Vista Equity Partners) • **~$1.9B+** Annual Revenue | Universal banking, lending, treasury, and open banking platform connecting financial institutions to the FusionFabric.cloud app ecosystem. | Fusion core / lending module starting packages starting at **~$3,500/mo** (~$42,000/yr base tier for community lenders plus per-active-loan volume fees) | **30-day free developer access** on FusionFabric.cloud with access to 200+ OpenAPI banking endpoints and 2,500 mock sandbox requests. |
+| **[Backbase Engagement Banking](https://www.backbase.com/)** | **~$2.7B** Valuation (€2.5B, Motive Partners) • **~$260M+** Annual Revenue | Customer engagement banking platform unifying customer onboarding, web/mobile retail banking, and employee frontends on top of legacy core ledgers. | Backbase-as-a-Service (BaaS) foundational packages starting at **~$5,000/mo** (~$60,000/yr baseline subscription plus ~## SaaS/Hosted Platforms
+
+- **Salesforce Financial Services Cloud** — **The enterprise relationship management standard for financial services.** Purpose-built CRM with household relationship mapping, financial accounts, goals, and referral management. **Subscription-based** per-user. **Best for large financial institutions** already standardized on Salesforce, accepting per-seat costs and cloud dependency.
+
+- **Adobe Financial Services Cloud** — Adobe's experience platform adapted for financial services, combining content management, analytics, and personalization for banking customer journeys.
+
+- **Backbase** — **The digital banking engagement platform.** Omnichannel banking experiences, onboarding, and customer engagement for retail and business banking. **Enterprise licensing**. **Best for banks** wanting a polished digital frontend without building from scratch.
+
+- **nCino** — **The cloud banking platform for loan origination and onboarding.** Built on Salesforce, with commercial loan origination, account opening, and compliance workflows. **Subscription-based**. **Best for commercial lenders** wanting loan lifecycle management on the Salesforce platform.
+
+- **Temenos Cloud** — **The core banking standard.** Comprehensive core banking, payments, and digital banking suite for banks worldwide. **Enterprise subscription**. **Best for large banks** needing a proven, comprehensive core banking platform.
+
+- **Fiserv DNA** — Account processing and core banking platform for banks and credit unions. **Enterprise licensing**.
+
+- **Finastra Fusion** — Financial software suite covering core banking, payments, lending, and treasury. **Enterprise licensing**.
+
+.25/active customer/year) | **30-day private developer sandbox evaluation** with Backbase Design System UI components, sample retail customer journeys, and mock core ledger connectors. |
 
 ## Open-Source GitHub Projects
 
