@@ -86,7 +86,7 @@ The following enterprise platforms deliver turnkey core banking, loan originatio
 
 Explore the leading open-source repositories powering self-hosted core banking engines, client portals, programmable ledgers, lending management, and financial analytics.
 
-> *Sorted descending by GitHub Stars_Count.*
+> *Sorted descending by GitHub Star count.*
 
 ### ⭐ Featured Open-Source Projects (Sorted by Stars)
 
@@ -117,11 +117,20 @@ Explore the leading open-source repositories powering self-hosted core banking e
 - **[Open Bank Project (OBP API)](https://github.com/OpenBankProject/OBP-API)** [![Stars](https://img.shields.io/github/stars/OpenBankProject/OBP-API?style=social&color=white)](https://github.com/OpenBankProject/OBP-API/stargazers)  
   The leading open-source RESTful API middleware platform for banks. Provides out-of-the-box support for Open Banking, PSD2, XS2A, accounts, transactions, KYC, counterparties, payments, and fine-grained entitlement metadata.
 
+- **[FINOS Legend](https://github.com/finos/legend)** [![Stars](https://img.shields.io/github/stars/finos/legend?style=social&color=white)](https://github.com/finos/legend/stargazers)  
+  Enterprise financial data modeling, data governance, and analytics platform originally created by Goldman Sachs and donated to FINOS. Enables institutions to build shared data models, service execution pipelines, and regulatory data management.
+
 - **[Formance Ledger](https://github.com/formancehq/ledger)** [![Stars](https://img.shields.io/github/stars/formancehq/ledger?style=social&color=white)](https://github.com/formancehq/ledger/stargazers)  
   Programmable double-entry financial ledger purpose-built for fintechs and financial platforms. Tracks money movements across accounts, payment rails, and multi-currency balances with a dedicated DSL (Numscript) and transactional integrity.
 
+- **[Firefly III Data Importer](https://github.com/firefly-iii/data-importer)** [![Stars](https://img.shields.io/github/stars/firefly-iii/data-importer?style=social&color=white)](https://github.com/firefly-iii/data-importer/stargazers)  
+  Official data import companion tool for Firefly III. Facilitates compliant, automated transaction imports from global banking portals, CSV files, Spectre, Nordigen, and financial data aggregators.
+
 - **[Moov ACH](https://github.com/moov-io/ach)** [![Stars](https://img.shields.io/github/stars/moov-io/ach?style=social&color=white)](https://github.com/moov-io/ach/stargazers)  
   Open-source financial protocol engine written in Go for parsing, validating, and generating NACHA ACH payment files. Bridges cloud fintech platforms with US banking clearing houses and FedNow payment rails.
+
+- **[Moov Watchman](https://github.com/moov-io/watchman)** [![Stars](https://img.shields.io/github/stars/moov-io/watchman?style=social&color=white)](https://github.com/moov-io/watchman/stargazers)  
+  Open-source sanctions screening and AML/CTF/KYC search engine written in Go. Continuously indexes and screens counterparties and account holders against OFAC (SDN list), BIS, EU, and international regulatory watchlists.
 
 - **[Mifos X Web App](https://github.com/openMF/web-app)** [![Stars](https://img.shields.io/github/stars/openMF/web-app?style=social&color=white)](https://github.com/openMF/web-app/stargazers)  
   The Angular-based web client for the Mifos X and Apache Fineract core banking platform. Equips branch staff, loan officers, and financial administrators with back-office operations, client management, and accounting dashboards.
@@ -132,11 +141,23 @@ Explore the leading open-source repositories powering self-hosted core banking e
 - **[Frappe Lending](https://github.com/frappe/lending)** [![Stars](https://img.shields.io/github/stars/frappe/lending?style=social&color=white)](https://github.com/frappe/lending/stargazers)  
   Open-source loan management system (LMS) built on Frappe and ERPNext. Covers the complete loan lifecycle from borrower origination to disbursement, repayment tracking, automated penalty billing, and NPA classification.
 
+- **[Mifos Mobile Wallet](https://github.com/openMF/mobile-wallet)** [![Stars](https://img.shields.io/github/stars/openMF/mobile-wallet?style=social&color=white)](https://github.com/openMF/mobile-wallet/stargazers)  
+  Reference implementation of a consumer-facing digital mobile wallet and payments app built on top of Apache Fineract and Mifos API services. Enables peer-to-peer transfers, merchant QR payments, and virtual card access.
+
 - **[FINOS FDC3](https://github.com/finos/FDC3)** [![Stars](https://img.shields.io/github/stars/finos/FDC3?style=social&color=white)](https://github.com/finos/FDC3/stargazers)  
   The Financial Desktop Connectivity and Consensus (FDC3) standard governed by the Fintech Open Source Foundation (FINOS). Establishes universal interoperability standards for financial desktop applications and cross-app context sharing.
 
+- **[Mifos Android Field Officer Client](https://github.com/openMF/android-client)** [![Stars](https://img.shields.io/github/stars/openMF/android-client?style=social&color=white)](https://github.com/openMF/android-client/stargazers)  
+  Android-based field operations client for loan officers and field banking agents. Enables offline collection, customer KYC verification, loan repayments, and field synchronization for Apache Fineract.
+
+- **[FINOS Morphir](https://github.com/finos/morphir)** [![Stars](https://img.shields.io/github/stars/finos/morphir?style=social&color=white)](https://github.com/finos/morphir/stargazers)  
+  Business logic modeling framework and toolchain governed by FINOS. Transpiles formal business models and financial decision regulations directly into executable application code across languages without divergence.
+
 - **[FinAegis](https://github.com/FinAegis/core-banking-prototype-laravel)** [![Stars](https://img.shields.io/github/stars/FinAegis/core-banking-prototype-laravel?style=social&color=white)](https://github.com/FinAegis/core-banking-prototype-laravel/stargazers)  
   Domain-driven core banking prototype with 61 DDD modules, event sourcing, CQRS, and schema-first GraphQL API. Supports multi-asset accounts, foreign exchange, lending, machine payments, and non-custodial wallet backends on Laravel 12.
+
+- **[Moov Paygate](https://github.com/moov-io/paygate)** [![Stars](https://img.shields.io/github/stars/moov-io/paygate?style=social&color=white)](https://github.com/moov-io/paygate/stargazers)  
+  RESTful API gateway for orchestrating electronic payments. Manages file creation, FedACH transmission, micro-deposits, originating debits/credits, and reconciliation of multi-party financial transactions.
 
 - **[FinCRM](https://github.com/MrXujiang/FinCRM)** [![Stars](https://img.shields.io/github/stars/MrXujiang/FinCRM?style=social&color=white)](https://github.com/MrXujiang/FinCRM/stargazers)  
   Out-of-the-box financial CRM and office management system built with Next.js. Tailored for loan agencies and wealth managers with deal pipelines, client portfolio management, and self-hosted client portals.
@@ -152,16 +173,22 @@ Explore the leading open-source repositories powering self-hosted core banking e
 ### 🏛️ Core Banking Engines & Programmable Ledgers
 
 - **[Apache Fineract](https://github.com/apache/fineract)** [![Stars](https://img.shields.io/github/stars/apache/fineract?style=social&color=white)](https://github.com/apache/fineract/stargazers) — Multi-tenant core banking engine with isolated databases per tenant, REST APIs, and accounting ledgers.
-- **[Formance Ledger](https://github.com/formancehq/ledger)** [![Stars](https://img.shields.io/github/stars/formancehq/ledger?style=social&color=white)](https://github.com/formancehq/ledger/stargazers) — Programmable double-entry ledger for money movements, multi-currency routing, and fintech ledgers.
 - **[Open Bank Project (OBP API)](https://github.com/OpenBankProject/OBP-API)** [![Stars](https://img.shields.io/github/stars/OpenBankProject/OBP-API?style=social&color=white)](https://github.com/OpenBankProject/OBP-API/stargazers) — API middleware layer for core banking interoperability, PSD2 compliance, and financial data sharing.
+- **[FINOS Legend](https://github.com/finos/legend)** [![Stars](https://img.shields.io/github/stars/finos/legend?style=social&color=white)](https://github.com/finos/legend/stargazers) — Enterprise financial data modeling and governance platform for regulatory compliance and data architecture.
+- **[Formance Ledger](https://github.com/formancehq/ledger)** [![Stars](https://img.shields.io/github/stars/formancehq/ledger?style=social&color=white)](https://github.com/formancehq/ledger/stargazers) — Programmable double-entry ledger for money movements, multi-currency routing, and fintech ledgers.
 - **[Moov ACH](https://github.com/moov-io/ach)** [![Stars](https://img.shields.io/github/stars/moov-io/ach?style=social&color=white)](https://github.com/moov-io/ach/stargazers) — High-throughput Go NACHA engine for Automated Clearing House validation and payment files.
+- **[Moov Watchman](https://github.com/moov-io/watchman)** [![Stars](https://img.shields.io/github/stars/moov-io/watchman?style=social&color=white)](https://github.com/moov-io/watchman/stargazers) — Sanctions screening and AML/KYC search engine for OFAC, EU, and global financial watchlists.
+- **[FINOS Morphir](https://github.com/finos/morphir)** [![Stars](https://img.shields.io/github/stars/finos/morphir?style=social&color=white)](https://github.com/finos/morphir/stargazers) — Business logic modeling framework transpiling financial models directly into executable code.
 - **[FinAegis](https://github.com/FinAegis/core-banking-prototype-laravel)** [![Stars](https://img.shields.io/github/stars/FinAegis/core-banking-prototype-laravel?style=social&color=white)](https://github.com/FinAegis/core-banking-prototype-laravel/stargazers) — CQRS/Event Sourcing core banking architecture prototype on Laravel 12.
+- **[Moov Paygate](https://github.com/moov-io/paygate)** [![Stars](https://img.shields.io/github/stars/moov-io/paygate?style=social&color=white)](https://github.com/moov-io/paygate/stargazers) — Payment orchestration gateway for automating ACH file processing and micro-deposit verification.
 - **[TPT Banking](https://github.com/tpt-solutions/tpt-banking)** [![Stars](https://img.shields.io/github/stars/tpt-solutions/tpt-banking?style=social&color=white)](https://github.com/tpt-solutions/tpt-banking/stargazers) — NestJS microservices architecture for full-stack core banking and compliance.
 
 ### 📱 Digital Banking Frontends & Mobile Apps
 
 - **[Mifos X Web App](https://github.com/openMF/web-app)** [![Stars](https://img.shields.io/github/stars/openMF/web-app?style=social&color=white)](https://github.com/openMF/web-app/stargazers) — Official web client for staff operations, branch management, and client onboarding.
 - **[Mifos Mobile](https://github.com/openMF/mifos-mobile)** [![Stars](https://img.shields.io/github/stars/openMF/mifos-mobile?style=social&color=white)](https://github.com/openMF/mifos-mobile/stargazers) — Android digital banking app for credit unions and microfinance institutions.
+- **[Mifos Mobile Wallet](https://github.com/openMF/mobile-wallet)** [![Stars](https://img.shields.io/github/stars/openMF/mobile-wallet?style=social&color=white)](https://github.com/openMF/mobile-wallet/stargazers) — Consumer mobile wallet reference app for peer-to-peer transfers and merchant payments on Mifos/Fineract.
+- **[Mifos Android Field Officer Client](https://github.com/openMF/android-client)** [![Stars](https://img.shields.io/github/stars/openMF/android-client?style=social&color=white)](https://github.com/openMF/android-client/stargazers) — Android field operations client for loan officers, customer KYC, and offline loan collections.
 - **[Fiducia](https://github.com/danweis07/Fiducia)** [![Stars](https://img.shields.io/github/stars/danweis07/Fiducia?style=social&color=white)](https://github.com/danweis07/Fiducia/stargazers) — Open-source digital banking frontend with CFPB 1033 consent management and ISO 20022 schemas.
 
 ### 🤝 Financial CRM & Loan Management
@@ -176,8 +203,9 @@ Explore the leading open-source repositories powering self-hosted core banking e
 - **[Firefly III](https://github.com/firefly-iii/firefly-iii)** [![Stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=social&color=white)](https://github.com/firefly-iii/firefly-iii/stargazers) — Double-entry personal finance and financial account manager.
 - **[Perspective](https://github.com/perspective-dev/perspective)** [![Stars](https://img.shields.io/github/stars/perspective-dev/perspective?style=social&color=white)](https://github.com/perspective-dev/perspective/stargazers) — Streaming data visualization engine for financial analytics and real-time trading desks.
 - **[Ghostfolio](https://github.com/ghostfolio/ghostfolio)** [![Stars](https://img.shields.io/github/stars/ghostfolio/ghostfolio?style=social&color=white)](https://github.com/ghostfolio/ghostfolio/stargazers) — Multi-asset wealth management and portfolio performance tracker.
-- **[Rotki](https://github.com/rotki/rotki)** [![Stars](https://img.shields.io/github/stars/rotki/rotki?style=social&color=white)](https://github.com/rotki/rotki/stargazers) — Privacy-respecting portfolio tracker and crypto/traditional asset accountant.
 - **[Kill Bill](https://github.com/killbill/killbill)** [![Stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers) — Scalable open-source billing and recurring payments engine.
+- **[Rotki](https://github.com/rotki/rotki)** [![Stars](https://img.shields.io/github/stars/rotki/rotki?style=social&color=white)](https://github.com/rotki/rotki/stargazers) — Privacy-respecting portfolio tracker and crypto/traditional asset accountant.
+- **[Firefly III Data Importer](https://github.com/firefly-iii/data-importer)** [![Stars](https://img.shields.io/github/stars/firefly-iii/data-importer?style=social&color=white)](https://github.com/firefly-iii/data-importer/stargazers) — Data import tool for Firefly III supporting banking formats, CSV, Spectre, and Nordigen.
 - **[FINOS FDC3](https://github.com/finos/FDC3)** [![Stars](https://img.shields.io/github/stars/finos/FDC3?style=social&color=white)](https://github.com/finos/FDC3/stargazers) — Standardized financial desktop interoperability specification.
 
 ---
