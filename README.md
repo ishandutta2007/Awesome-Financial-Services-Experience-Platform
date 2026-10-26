@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5855F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Financial-Services-Experience-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Financial-Services-Experience-Platform?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Financial-Services-Experience-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Financial-Services-Experience-Platform?style=flat-square&color=gold" alt="GitHub Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Financial-Services-Experience-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Financial-Services-Experience-Platform?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Financial-Services-Experience-Platform/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Financial-Services-Experience-Platform/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
@@ -244,7 +244,7 @@ Thank you for supporting open financial technology! 🙏
 
 ##  Star History
 
-[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Financial-Services-Experience-Platform&type=date&legend=top-left)](https://star-hittory.dera.page/#ishandutta2007/Awesome-Financial-Services-Experience-Platform&type=date&legend=top-left)
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Financial-Services-Experience-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Financial-Services-Experience-Platform&type=date&legend=top-left)
 
 ---
 
